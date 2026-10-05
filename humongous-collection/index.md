@@ -6,13 +6,13 @@ title: Humongous Collection
 <h1 align="center" style="font-size: 56px !important;">Humongous Collection</h1>
 <h2 align="center" style="font-size: 32px !important;">A modern, no-install, disc-based collection of<br>Humongous Entertainment games, powered by ScummVM.</h2>
 
-<p align="center">
-  <br>
-  <img src="disc_full_demo.png" width="800px" alt="Demo images of the game discs." />
-</p>
 <p style="max-width: 800px; margin: 0 auto;">
   <table style="width: 100%; border-collapse: collapse; border: none;">
-    <br>
+    <tr style="border: none;">
+      <td style="width: 50%; border: none;" colspan=2>
+        <img src="disc_full_demo.png" style="width: 100%; display: block;" alt="Demo images of the game discs." />
+      </td>
+    </tr>
     <tr style="border: none;">
       <td style="width: 50%; border: none; padding: 0 4px 0 0;">
         <img src="bd-rom_case_cover.png" style="width: 100%; display: block;" alt="Demo images of the BD-ROM Edition cover." />
