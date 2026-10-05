@@ -7,7 +7,7 @@ title: Humongous Collection
 <h2 align="center" style="font-size: 32px !important;">A modern, no-install, disc-based collection of<br>Humongous Entertainment games, powered by ScummVM.</h2>
 
 <div align="center"><img src="disc_full_demo.png" width="800px" alt="Demo images of the game discs." /></div>
-<div align="center" style="max-width: 800px;">
+<div style="max-width: 800px; margin: 0 auto;">
   <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="border: none;">
       <td style="width: 50%; border: none; padding: 0 4px 0 0;">
