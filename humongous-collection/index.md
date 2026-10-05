@@ -14,10 +14,10 @@ title: Humongous Collection
       </td>
     </tr>
     <tr style="border: none;">
-      <td style="width: 50%; border: none; padding: 0 4px 0 0;">
+      <td style="width: 50%; border: none; padding: 0 0 0 0;">
         <img src="bd-rom_case_cover.png" style="width: 100%; display: block;" alt="Demo images of the BD-ROM Edition cover." />
       </td>
-      <td style="width: 50%; border: none; padding: 0 0 0 4px;">
+      <td style="width: 50%; border: none; padding: 10px 0 0 0;">
         <img src="bd-rom_case_inside.png" style="width: 100%; display: block;" alt="Demo image of the BD-ROM Edition insert." />
       </td>
     </tr>
