@@ -10,7 +10,7 @@ title: Humongous Collection
   <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="border: none;">
       <td style="width: 100%; border: none; padding: 0 0 0 0;" colspan=2>
-        <img src="disc_full_demo.png" style="width: 75%; display: block; margin: 0 auto;" alt="Demo images of the game discs." />
+        <img src="disc_full_demo.png" style="width: 75%; display: block;" alt="Demo images of the game discs." />
       </td>
     </tr>
     <tr style="border: none;">
