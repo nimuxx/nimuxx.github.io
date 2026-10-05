@@ -11,8 +11,8 @@ title: Humongous Collection
   <img src="disc_full_demo.png" width="800px" alt="Demo images of the game discs." />
 </p>
 <p style="max-width: 800px; margin: 0 auto;">
-  <br>
   <table style="width: 100%; border-collapse: collapse; border: none;">
+    <br>
     <tr style="border: none;">
       <td style="width: 50%; border: none; padding: 0 4px 0 0;">
         <img src="bd-rom_case_cover.png" style="width: 100%; display: block;" alt="Demo images of the BD-ROM Edition cover." />
