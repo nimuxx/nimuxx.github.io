@@ -33,6 +33,8 @@ title: Humongous Collection
 - BD-ROM Edition
   - <a href="https://drive.google.com/drive/folders/1I4RSSHDaRd4DgBy6jJA_bBxS3XNiK9U-">[GOOGLE DRIVE]</a>
   - <a href="magnet:?xt=urn:btih:fba2cbdb5665c36dda9d7fee0f3e048d0ca6742d&dn=Humongous%20Collection%20%28BD-ROM%20Edition%29&xl=12735166811&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce">[MAGNET LINK]</a>
+- Archival Backup
+  - <a href="https://archive.org/details/humongous-collection">[INTERNET ARCHIVE]</a>
 
 ---
 
