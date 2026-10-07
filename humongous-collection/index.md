@@ -34,7 +34,7 @@ This is a fan-made physical game disc release containing every Humongous Enterta
   - Saves, screenshots, and logs are stored on the local hard drive in the default locations for the installed version of ScummVM.
     - Save path: `%APPDATA%\ScummVM\Saved Games`
     - Screenshot path: `%USERPROFILE%\Pictures\ScummVM Screenshots`
-    - Log path: `LOG_DIR=%APPDATA%\ScummVM\Logs\logfile.log`
+    - Log path: `%APPDATA%\ScummVM\Logs\logfile.log`
 - It has exceptional Windows compatibility.
   - Tested and working on Windows Vista, 7, 8, 10, and 11.
   - Tested and working on both 32-bit (x86) and 64-bit (x64) versions of Windows.
