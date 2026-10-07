@@ -24,11 +24,6 @@
   font-display: swap;
 }
 
-code pre kbd samp {
-  font-family: "3x5 Microfont Mono", "Courier New", monospace;
-  line-height: normal;
-}
-
 ul li {
   list-style: none !important;
   line-height: 1em !important;
@@ -53,6 +48,11 @@ ul li::before {
 body, h1, h2, h3, h4, h5, h6, header h1, header h2, ul li::marker {
   font-family: "3x5 Microfont", sans-serif;
   line-height: 1em !important;
+}
+
+code pre kbd samp {
+  font-family: "3x5 Microfont Mono", "Courier New", monospace;
+  line-height: normal;
 }
 
 h1, h2, h3, h4, h5, h6, header h1, header h2 {
