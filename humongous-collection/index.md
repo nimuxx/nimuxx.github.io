@@ -44,10 +44,8 @@ This is a fan-made physical game disc release containing every Humongous Enterta
   - Wrap-around cover art.
   - Internal insert card.
 - There are two (2) versions of the release based on your needs.
-  - One version is split between three single-layer DVDs.
-    - DVD drives are more common on PCs, but this version requires a keep case that supports 3 discs via an added middle flap.
-  - The other version fits everything on one single-layer Blu-ray.
-    - Blu-ray drives aren't as common on PCs, but this version is able to be stored in a standard 1-disc keep case.
+  - The first version is split between three single-layer DVDs. DVD drives are more common in PCs, but this version requires a keep case that supports 3 discs via an added middle flap.
+  - The second version fits everything on one single-layer Blu-ray. Blu-ray drives aren't as common in PCs, but this version can be stored in a standard 1-disc keep case.
 
 ---
 
