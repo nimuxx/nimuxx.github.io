@@ -24,7 +24,7 @@ title: Humongous Collection
   </table>
 </div>
 
-<hr>
+---
 
 This is a fan-made physical game disc release containing every Humongous Entertainment game that's compatible with ScummVM.
 
@@ -47,7 +47,7 @@ This is a fan-made physical game disc release containing every Humongous Enterta
   - The first version is split between three single-layer DVDs. DVD drives are more common in PCs, but this version requires a keep case that supports 3 discs via an added middle flap.
   - The second version fits everything on one single-layer Blu-ray. Blu-ray drives aren't as common in PCs, but this version can be stored in a standard 1-disc keep case.
 
-<hr>
+---
 
 # Downloads
 - 3 DVD-ROM Set
@@ -59,7 +59,7 @@ This is a fan-made physical game disc release containing every Humongous Enterta
 - Archival Backup
   - <a href="https://archive.org/details/humongous-collection">[INTERNET ARCHIVE]</a>
 
-<hr>
+---
 
 # Included Games
 The DVD-ROM version of this collection has the games split up between 3 DVD discs:
@@ -135,7 +135,7 @@ The DVD-ROM version of this collection has the games split up between 3 DVD disc
 - Moonbase Commander
   - Moonbase Commander <span style="color: var(--highlight-color)">(2002)</span>
 
-<hr>
+---
 
 The BD-ROM version contains all the games on a single Blu-ray disc:
 
