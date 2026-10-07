@@ -35,7 +35,7 @@ This is a fan-made physical game disc release containing every Humongous Enterta
     - Save path: `%APPDATA%\ScummVM\Saved Games`
     - Screenshot path: `%USERPROFILE%\Pictures\ScummVM Screenshots`
     - Log path: `%APPDATA%\ScummVM\Logs\logfile.log`
-- It has exceptional Windows compatibility.
+- It has exceptional modern Windows compatibility.
   - Tested and working on Windows Vista, 7, 8, 10, and 11.
   - Tested and working on both 32-bit (x86) and 64-bit (x64) versions of Windows.
   - Contains Autorun functionality with a disc icon and a custom launcher script.
