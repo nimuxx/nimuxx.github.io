@@ -26,6 +26,31 @@ title: Humongous Collection
 
 ---
 
+This is a fan-made physical game disc release containing every Humongous Entertainment game that's compatible with ScummVM.
+
+# Features
+- It's portable; There is no need to install anything.
+  - The ScummVM engine, icon database, configuration, and game files are all loaded from the disc on the fly.
+  - Saves, screenshots, and logs are stored on the local hard drive in the default locations for the installed version of ScummVM.
+    - Save path: `%APPDATA%\ScummVM\Saved Games`
+    - Screenshot path: `%USERPROFILE%\Pictures\ScummVM Screenshots`
+    - Log path: `LOG_DIR=%APPDATA%\ScummVM\Logs\logfile.log`
+- It has exceptional Windows compatibility.
+  - Tested and working on Windows Vista, 7, 8, 10, and 11.
+  - Tested and working on both 32-bit (x86) and 64-bit (x64) versions of Windows.
+  - Contains Autorun functionality with a disc icon and a custom launcher script.
+- It comes with fully custom physical release art, designed for a keep case (DVD case).
+  - Disc labels.
+  - Wrap-around cover art.
+  - Internal insert card.
+- There are two (2) versions of the release based on your needs.
+  - One version is split between three single-layer DVDs.
+    - DVD drives are more common on PCs, but this version requires a keep case that supports 3 discs via an added middle flap.
+  - The other version fits everything on one single-layer Blu-ray.
+    - Blu-ray drives aren't as common on PCs, but this version is able to be stored in a standard 1-disc keep case.
+
+---
+
 # Downloads
 - 3 DVD-ROM Set
   - <a href="https://drive.google.com/drive/folders/1CL1tkFbq0vU7fBG9TMU9z9LP7TtWmeK5">[GOOGLE DRIVE]</a>
