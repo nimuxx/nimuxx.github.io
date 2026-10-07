@@ -30,19 +30,17 @@ This is a fan-made physical game disc release containing every Humongous Enterta
 
 # Features
 - It's portable; There is no need to install anything.
-  - The ScummVM engine, icon database, configuration, and game files are all loaded from the disc on the fly.
+  - The game engine, game files, icon database, and configuration file are all loaded from the disc on the fly.
   - Saves, screenshots, and logs are stored on the local hard drive in the default locations for the installed version of ScummVM.
     - Save path: `%APPDATA%\ScummVM\Saved Games`
     - Screenshot path: `%USERPROFILE%\Pictures\ScummVM Screenshots`
     - Log path: `%APPDATA%\ScummVM\Logs\logfile.log`
 - It has exceptional modern Windows compatibility.
   - Tested and working on Windows Vista, 7, 8, 10, and 11.
-  - Tested and working on both 32-bit (x86) and 64-bit (x64) versions of Windows.
-  - Contains Autorun functionality with a disc icon and a custom launcher script.
-- It comes with fully custom physical release art, designed for a keep case (DVD case).
-  - Disc labels.
-  - Wrap-around cover art.
-  - Internal insert card.
+  - Fully supports both 32-bit (x86) and 64-bit (x64) versions of Windows.
+  - Contains Autorun functionality with a disc icon and a custom launcher script. This lets you simply right-click your disc drive and run the launcher using the `Install or run program from your media` option.
+- Thoughtfully crafted configuration and icon database files have been tailored to make the user experience as easy as possible; A kid should be able to figure it out without instructions. 
+- It comes with fully custom physical release art, designed for a keep case (DVD case). This includes disc labels, wrap-around cover art, and an internal insert card.
 - There are two (2) versions of the release based on your needs.
   - The first version is split between three single-layer DVDs. DVD drives are more common in PCs, but this version requires a keep case that supports 3 discs via an added middle flap.
   - The second version fits everything on one single-layer Blu-ray. Blu-ray drives aren't as common in PCs, but this version can be stored in a standard 1-disc keep case.
