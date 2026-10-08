@@ -99,27 +99,27 @@ Congratulations, you have now created a physical game release!
 The DVD-ROM version of this collection has the games split up between 3 DVD discs:
 
 ## Disc 1 of 3
-- Big Thinkers
+- *Big Thinkers*
     - Big Thinkers 1st Grade *(1997)*
     - Big Thinkers Kindergarten *(1997)*
-- Blue's Clues
+- *Blue's Clues*
     - Blue's 123 Time Activities *(1999)*
     - Blue's ABC Time Activities *(1998)*
     - Blue's Clues: Blue's Art Time Activities *(2000)*
     - Blue's Birthday Adventure *(1998)*
     - Blue's Reading Time Activities *(2000)*
     - Blue's Treasure Hunt *(1999)*
-- Fatty Bear
+- *Fatty Bear*
     - Fatty Bear's Birthday Surprise *(1993)*
     - Fatty Bear's Fun Pack *(1993)*
     - Putt-Putt and Fatty Bear's Activity Pack *(1994)*
-- Junior Field Trips
+- *Junior Field Trips*
     - Let's Explore the Airport with Buzzy *(1995)*
     - Let's Explore the Farm with Buzzy *(1994)*
     - Let's Explore the Jungle with Buzzy *(1995)*
 
 ## Disc 2 of 3
-- Freddi Fish
+- *Freddi Fish*
     - Freddi Fish 1: The Case of the Missing Kelp Seeds *(1994)*
     - Freddi Fish 2: The Case of the Haunted Schoolhouse *(1995)*
     - Freddi Fish 3: The Case of the Stolen Conch Shell *(1998)*
@@ -128,7 +128,7 @@ The DVD-ROM version of this collection has the games split up between 3 DVD disc
     - Freddi Fish and Luther's Maze Madness *(1997)*
     - Freddi Fish and Luther's Water Worries *(1997)*
     - Freddi Fish's One-Stop Fun Shop *(2000)*
-- Pajama Sam
+- *Pajama Sam*
     - Pajama Sam 1: No Need to Hide When It's Dark Outside *(1996)*
     - Pajama Sam 2: Thunder and Lightning Aren't so Frightening *(1998)*
     - Pajama Sam 3: You Are What You Eat from Your Head to Your Feet *(2000)*
@@ -136,7 +136,7 @@ The DVD-ROM version of this collection has the games split up between 3 DVD disc
     - Pajama Sam's One-Stop Fun Shop *(2000)*
     - Pajama Sam's Sock Works *(1997)*
     - Pajama Sam: Games to Play On Any Day *(2001)*
-- Putt-Putt
+- *Putt-Putt*
     - Putt-Putt and Fatty Bear's Activity Pack *(1994)*
     - Putt-Putt and Pep's Balloon-o-Rama *(1996)*
     - Putt-Putt and Pep's Dog on a Stick *(1996)*
@@ -148,7 +148,7 @@ The DVD-ROM version of this collection has the games split up between 3 DVD disc
     - Putt-Putt Travels Through Time *(1997)*
     - Putt-Putt's Fun Pack *(1993)*
     - Putt-Putt's One-Stop Fun Shop *(2000)*
-- SPY Fox
+- *SPY Fox*
     - SPY Fox 1: Dry Cereal *(1997)*
     - SPY Fox 2: Some Assembly Required *(1999)*
     - SPY Fox 3: Operation Ozone *(2001)*
@@ -156,7 +156,7 @@ The DVD-ROM version of this collection has the games split up between 3 DVD disc
     - SPY Fox in Hold the Mustard *(1999)*
 
 ## Disc 3 of 3
-- Backyard Sports
+- *Backyard Sports*
     - Backyard Baseball *(1997)*
     - Backyard Baseball 2001 *(2000)*
     - Backyard Baseball 2003 *(2002)*
@@ -166,7 +166,7 @@ The DVD-ROM version of this collection has the games split up between 3 DVD disc
     - Backyard Soccer *(1998)*
     - Backyard Soccer 2004 *(2003)*
     - Backyard Soccer MLS Edition *(2000)*
-- Moonbase Commander
+- *Moonbase Commander*
     - Moonbase Commander *(2002)*
 
 ---
@@ -174,7 +174,7 @@ The DVD-ROM version of this collection has the games split up between 3 DVD disc
 The BD-ROM version contains all the games on a single Blu-ray disc:
 
 ## Complete Disc
-- Backyard Sports
+- *Backyard Sports*
     - Backyard Baseball *(1997)*
     - Backyard Baseball 2001 *(2000)*
     - Backyard Baseball 2003 *(2002)*
@@ -184,21 +184,21 @@ The BD-ROM version contains all the games on a single Blu-ray disc:
     - Backyard Soccer *(1998)*
     - Backyard Soccer 2004 *(2003)*
     - Backyard Soccer MLS Edition *(2000)*
-- Big Thinker
+- *Big Thinkers*
     - Big Thinkers 1st Grade *(1997)*
     - Big Thinkers Kindergarten *(1997)*
-- Blue's Clues
+- *Blue's Clues*
     - Blue's 123 Time Activities *(1999)*
     - Blue's ABC Time Activities *(1998)*
     - Blue's Clues: Blue's Art Time Activities *(2000)*
     - Blue's Birthday Adventure *(1998)*
     - Blue's Reading Time Activities *(2000)*
     - Blue's Treasure Hunt *(1999)*
-- Fatty Bear
+- *Fatty Bear*
     - Fatty Bear's Birthday Surprise *(1993)*
     - Fatty Bear's Fun Pack *(1993)*
     - Putt-Putt and Fatty Bear's Activity Pack *(1994)*
-- Freddi Fish
+- *Freddi Fish*
     - Freddi Fish 1: The Case of the Missing Kelp Seeds *(1994)*
     - Freddi Fish 2: The Case of the Haunted Schoolhouse *(1995)*
     - Freddi Fish 3: The Case of the Stolen Conch Shell *(1998)*
@@ -207,13 +207,13 @@ The BD-ROM version contains all the games on a single Blu-ray disc:
     - Freddi Fish and Luther's Maze Madness *(1997)*
     - Freddi Fish and Luther's Water Worries *(1997)*
     - Freddi Fish's One-Stop Fun Shop *(2000)*
-- Junior Field Trips
+- *Junior Field Trips*
     - Let's Explore the Airport with Buzzy *(1995)*
     - Let's Explore the Farm with Buzzy *(1994)*
     - Let's Explore the Jungle with Buzzy *(1995)*
-- Moonbase Commander
+- *Moonbase Commander*
     - Moonbase Commander *(2002)*
-- Pajama Sam
+- *Pajama Sam*
     - Pajama Sam 1: No Need to Hide When It's Dark Outside *(1996)*
     - Pajama Sam 2: Thunder and Lightning Aren't so Frightening *(1998)*
     - Pajama Sam 3: You Are What You Eat from Your Head to Your Feet *(2000)*
@@ -221,7 +221,7 @@ The BD-ROM version contains all the games on a single Blu-ray disc:
     - Pajama Sam's One-Stop Fun Shop *(2000)*
     - Pajama Sam's Sock Works *(1997)*
     - Pajama Sam: Games to Play On Any Day *(2001)*
-- Putt-Putt
+- *Putt-Putt*
     - Putt-Putt and Pep's Balloon-o-Rama *(1996)*
     - Putt-Putt and Pep's Dog on a Stick *(1996)*
     - Putt-Putt Enters the Race *(1999)*
@@ -232,7 +232,7 @@ The BD-ROM version contains all the games on a single Blu-ray disc:
     - Putt-Putt Travels Through Time *(1997)*
     - Putt-Putt's Fun Pack *(1993)*
     - Putt-Putt's One-Stop Fun Shop *(2000)*
-- SPY Fox
+- *SPY Fox*
     - SPY Fox 1: Dry Cereal *(1997)*
     - SPY Fox 2: Some Assembly Required *(1999)*
     - SPY Fox 3: Operation Ozone *(2001)*
