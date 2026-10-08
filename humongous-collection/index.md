@@ -80,18 +80,18 @@ Congratulations, you have now created a physical game release!
 # How to Play
 1. Insert the disc into your disc drive and wait for it to show up in Windows.
 2. Run the launcher script.
-  - On older versions of Windows, you will get an Autorun popup prompting you to run the startup script.
-  - On newer versions, you will need to right-click the disc drive in Windows Explorer and select `Install or run program from your media`.
-  - If all else fails, you can manually run the script by double-clicking on `Run.bat`.
+    - On older versions of Windows, you will get an Autorun popup prompting you to run the startup script.
+    - On newer versions, you will need to right-click the disc drive in Windows Explorer and select `Install or run program from your media`.
+    - If all else fails, you can manually run the script by double-clicking on `Run.bat`.
 4. Wait for a minute or so while the data is read from the disc.
-  - You may see a command window that lingers for a moment, then disappears; this means that the game engine is loading in the background.
-  - **Do not run the launcher script more than once, or multiple launcher windows will open.**
+    - You may see a command window that lingers for a moment, then disappears; this means that the game engine is loading in the background.
+    - **Do not run the launcher script more than once, or multiple launcher windows will open.**
 5. When the ScummVM launcher finally shows up, double-click the game you wish to play.
-  - Wait a moment while the game files are loaded from the disc, then your game will start.
+    - Wait a moment while the game files are loaded from the disc, then your game will start.
 6. You can exit your game at any time, and you will return to the ScummVM launcher.
-  - Clicking the exit button a second time on the launcher screen will quit the launcher entirely.
+    - Clicking the exit button a second time on the launcher screen will quit the launcher entirely.
 7. When you are done playing, exit the ScummVM launcher completely, then eject the disc.
-  - **Ejecting the disc while the ScummVM launcher is still running can result in strange bugs and possible save game corruption.**
+    - **Ejecting the disc while the ScummVM launcher is still running can result in strange bugs and possible save game corruption.**
 
 ---
 
