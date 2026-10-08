@@ -81,7 +81,7 @@ Congratulations, you have now created a physical game release!
 1. Insert the disc into your disc drive and wait for it to show up in Windows.
 2. Run the launcher script.
     - On older versions of Windows, you will get an Autorun popup prompting you to run the startup script.
-    - On newer versions, you will need to right-click the disc drive in Windows Explorer and select `Install or run program from your media`.
+    - On newer versions of Windows, you will need to manually right-click the disc drive in Windows Explorer and select `Install or run program from your media`.
     - If all else fails, you can manually run the script by double-clicking on `Run.bat`.
 4. Wait for a minute or so while the data is read from the disc.
     - You may see a command window that lingers for a moment, then disappears; this means that the game engine is loading in the background.
