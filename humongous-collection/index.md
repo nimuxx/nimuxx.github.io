@@ -91,7 +91,7 @@ Congratulations, you have now created a physical game release!
 6. You can exit your game at any time, and you will return to the ScummVM launcher.
     - Clicking the exit button a second time on the launcher screen will quit the launcher entirely.
 7. When you are done playing, exit the ScummVM launcher completely, then eject the disc.
-    - **Ejecting the disc while the ScummVM launcher is still running can result in strange bugs and possible save game corruption.**
+    - **Ejecting the disc while ScummVM is still running can result in strange bugs and possible save game corruption.**
 
 ---
 
