@@ -67,7 +67,7 @@ This is a fan-made physical game disc release containing every Humongous Enterta
         - If you're trying to make an archival backup that can survive heavy data rot, download the `Archival Backup` instead, which has 100% redundancy `.par2` files for HDD backup, in addition to archival `.iso` files with 100% - 200% redundancy built in using [`dvdisaster`](https://github.com/speed47/dvdisaster).
 2. Burn the `.iso` file(s) to the disc(s). Use `4x` - `8x` speed for best results.
     - At this point, if you don't care about having pretty labels or box art for the disc(s), you can just label them with a marker and skip the rest of this section.
-3. Print and cut the artwork in the `Print` folders out at 300 DPI. <span style="color: var(--highlight-color)"><u>Do not scale the artwork when printing.</u></span> There is an example of what each item should look like after being cut to its final size in the `Preview` folders.
+3. Print out the artwork in the `Print` folders at 300 DPI. **Do not scale the artwork when printing.** There is an example of what each item should look like after being cut to its final size in the `Preview` folders.
     - The disc label(s) should be printed on pre-cut adhesive CD labels. You will either need to learn how to align the artwork to the CD label paper or pay a local print shop to do it for you.
     - The cover art should be printed on gloss or semi-gloss paper. When cutting it out, try to trim about `3 mm` of the artwork off on every side. The artwork was designed to be cut out this way.
     - The internal insert should be printed on either semi-gloss or matte paper that's thicker than printer paper. Again, it was designed to be cut out by trimming `3 mm` of printed artwork off on each side.
@@ -83,7 +83,7 @@ Congratulations, you have now created a physical game release!
 3. Wait for a minute or so while the data is read from the disc. You may see a command window that lingers for a moment, then disappears; this means that the game engine is loading in the background. <u>Do not run the launcher script more than once, or multiple launcher windows will open.</u>
 4. When the ScummVM launcher finally shows up, double-click the game you wish to play. The game files will be loaded from the disc, and your game will start.
 5. You can exit your game at any time, and you will return to the ScummVM launcher. Clicking the exit button a second time on the launcher screen will quit the launcher entirely.
-6. When you are done playing, exit the ScummVM launcher completely, then eject the disc. <u>Ejecting the disc while the engine is still running can result in strange bugs and possible save game corruption.</u>
+6. When you are done playing, exit the ScummVM launcher completely, then eject the disc. **Ejecting the disc while the engine is still running can result in strange bugs and possible save game corruption.**
 
 ---
 
@@ -92,74 +92,74 @@ The DVD-ROM version of this collection has the games split up between 3 DVD disc
 
 ## Disc 1 of 3
 - Big Thinkers
-    - Big Thinkers 1st Grade <span style="color: var(--highlight-color)">(1997)</span>
-    - Big Thinkers Kindergarten <span style="color: var(--highlight-color)">(1997)</span>
+    - Big Thinkers 1st Grade *(1997)*
+    - Big Thinkers Kindergarten *(1997)*
 - Blue's Clues
-    - Blue's 123 Time Activities <span style="color: var(--highlight-color)">(1999)</span>
-    - Blue's ABC Time Activities <span style="color: var(--highlight-color)">(1998)</span>
-    - Blue's Clues: Blue's Art Time Activities <span style="color: var(--highlight-color)">(2000)</span>
-    - Blue's Birthday Adventure <span style="color: var(--highlight-color)">(1998)</span>
-    - Blue's Reading Time Activities <span style="color: var(--highlight-color)">(2000)</span>
-    - Blue's Treasure Hunt <span style="color: var(--highlight-color)">(1999)</span>
+    - Blue's 123 Time Activities *(1999)*
+    - Blue's ABC Time Activities *(1998)*
+    - Blue's Clues: Blue's Art Time Activities *(2000)*
+    - Blue's Birthday Adventure *(1998)*
+    - Blue's Reading Time Activities *(2000)*
+    - Blue's Treasure Hunt *(1999)*
 - Fatty Bear
-    - Fatty Bear's Birthday Surprise <span style="color: var(--highlight-color)">(1993)</span>
-    - Fatty Bear's Fun Pack <span style="color: var(--highlight-color)">(1993)</span>
-    - Putt-Putt and Fatty Bear's Activity Pack <span style="color: var(--highlight-color)">(1994)</span>
+    - Fatty Bear's Birthday Surprise *(1993)*
+    - Fatty Bear's Fun Pack *(1993)*
+    - Putt-Putt and Fatty Bear's Activity Pack *(1994)*
 - Junior Field Trips
-    - Let's Explore the Airport with Buzzy <span style="color: var(--highlight-color)">(1995)</span>
-    - Let's Explore the Farm with Buzzy <span style="color: var(--highlight-color)">(1994)</span>
-    - Let's Explore the Jungle with Buzzy <span style="color: var(--highlight-color)">(1995)</span>
+    - Let's Explore the Airport with Buzzy *(1995)*
+    - Let's Explore the Farm with Buzzy *(1994)*
+    - Let's Explore the Jungle with Buzzy *(1995)*
 
 ## Disc 2 of 3
 - Freddi Fish
-    - Freddi Fish 1: The Case of the Missing Kelp Seeds <span style="color: var(--highlight-color)">(1994)</span>
-    - Freddi Fish 2: The Case of the Haunted Schoolhouse <span style="color: var(--highlight-color)">(1995)</span>
-    - Freddi Fish 3: The Case of the Stolen Conch Shell <span style="color: var(--highlight-color)">(1998)</span>
-    - Freddi Fish 4: The Case of the Hogfish Rustlers of Briny Gulch <span style="color: var(--highlight-color)">(1999)</span>
-    - Freddi Fish 5: The Case of the Creature of Coral Cove <span style="color: var(--highlight-color)">(2001)</span>
-    - Freddi Fish and Luther's Maze Madness <span style="color: var(--highlight-color)">(1997)</span>
-    - Freddi Fish and Luther's Water Worries <span style="color: var(--highlight-color)">(1997)</span>
-    - Freddi Fish's One-Stop Fun Shop <span style="color: var(--highlight-color)">(2000)</span>
+    - Freddi Fish 1: The Case of the Missing Kelp Seeds *(1994)*
+    - Freddi Fish 2: The Case of the Haunted Schoolhouse *(1995)*
+    - Freddi Fish 3: The Case of the Stolen Conch Shell *(1998)*
+    - Freddi Fish 4: The Case of the Hogfish Rustlers of Briny Gulch *(1999)*
+    - Freddi Fish 5: The Case of the Creature of Coral Cove *(2001)*
+    - Freddi Fish and Luther's Maze Madness *(1997)*
+    - Freddi Fish and Luther's Water Worries *(1997)*
+    - Freddi Fish's One-Stop Fun Shop *(2000)*
 - Pajama Sam
-    - Pajama Sam 1: No Need to Hide When It's Dark Outside <span style="color: var(--highlight-color)">(1996)</span>
-    - Pajama Sam 2: Thunder and Lightning Aren't so Frightening <span style="color: var(--highlight-color)">(1998)</span>
-    - Pajama Sam 3: You Are What You Eat from Your Head to Your Feet <span style="color: var(--highlight-color)">(2000)</span>
-    - Pajama Sam's Lost & Found <span style="color: var(--highlight-color)">(1998)</span>
-    - Pajama Sam's One-Stop Fun Shop <span style="color: var(--highlight-color)">(2000)</span>
-    - Pajama Sam's Sock Works <span style="color: var(--highlight-color)">(1997)</span>
-    - Pajama Sam: Games to Play On Any Day <span style="color: var(--highlight-color)">(2001)</span>
+    - Pajama Sam 1: No Need to Hide When It's Dark Outside *(1996)*
+    - Pajama Sam 2: Thunder and Lightning Aren't so Frightening *(1998)*
+    - Pajama Sam 3: You Are What You Eat from Your Head to Your Feet *(2000)*
+    - Pajama Sam's Lost & Found *(1998)*
+    - Pajama Sam's One-Stop Fun Shop *(2000)*
+    - Pajama Sam's Sock Works *(1997)*
+    - Pajama Sam: Games to Play On Any Day *(2001)*
 - Putt-Putt
-    - Putt-Putt and Fatty Bear's Activity Pack <span style="color: var(--highlight-color)">(1994)</span>
-    - Putt-Putt and Pep's Balloon-o-Rama <span style="color: var(--highlight-color)">(1996)</span>
-    - Putt-Putt and Pep's Dog on a Stick <span style="color: var(--highlight-color)">(1996)</span>
-    - Putt-Putt Enters the Race <span style="color: var(--highlight-color)">(1999)</span>
-    - Putt-Putt Goes to the Moon <span style="color: var(--highlight-color)">(1993)</span>
-    - Putt-Putt Joins the Circus <span style="color: var(--highlight-color)">(2000)</span>
-    - Putt-Putt Joins the Parade <span style="color: var(--highlight-color)">(1992)</span>
-    - Putt-Putt Saves the Zoo <span style="color: var(--highlight-color)">(1995)</span>
-    - Putt-Putt Travels Through Time <span style="color: var(--highlight-color)">(1997)</span>
-    - Putt-Putt's Fun Pack <span style="color: var(--highlight-color)">(1993)</span>
-    - Putt-Putt's One-Stop Fun Shop <span style="color: var(--highlight-color)">(2000)</span>
+    - Putt-Putt and Fatty Bear's Activity Pack *(1994)*
+    - Putt-Putt and Pep's Balloon-o-Rama *(1996)*
+    - Putt-Putt and Pep's Dog on a Stick *(1996)*
+    - Putt-Putt Enters the Race *(1999)*
+    - Putt-Putt Goes to the Moon *(1993)*
+    - Putt-Putt Joins the Circus *(2000)*
+    - Putt-Putt Joins the Parade *(1992)*
+    - Putt-Putt Saves the Zoo *(1995)*
+    - Putt-Putt Travels Through Time *(1997)*
+    - Putt-Putt's Fun Pack *(1993)*
+    - Putt-Putt's One-Stop Fun Shop *(2000)*
 - SPY Fox
-    - SPY Fox 1: Dry Cereal <span style="color: var(--highlight-color)">(1997)</span>
-    - SPY Fox 2: Some Assembly Required <span style="color: var(--highlight-color)">(1999)</span>
-    - SPY Fox 3: Operation Ozone <span style="color: var(--highlight-color)">(2001)</span>
-    - SPY Fox in Cheese Chase <span style="color: var(--highlight-color)">(1998)</span>
-    - SPY Fox in Hold the Mustard <span style="color: var(--highlight-color)">(1999)</span>
+    - SPY Fox 1: Dry Cereal *(1997)*
+    - SPY Fox 2: Some Assembly Required *(1999)*
+    - SPY Fox 3: Operation Ozone *(2001)*
+    - SPY Fox in Cheese Chase *(1998)*
+    - SPY Fox in Hold the Mustard *(1999)*
 
 ## Disc 3 of 3
 - Backyard Sports
-    - Backyard Baseball <span style="color: var(--highlight-color)">(1997)</span>
-    - Backyard Baseball 2001 <span style="color: var(--highlight-color)">(2000)</span>
-    - Backyard Baseball 2003 <span style="color: var(--highlight-color)">(2002)</span>
-    - Backyard Basketball <span style="color: var(--highlight-color)">(2001)</span>
-    - Backyard Football <span style="color: var(--highlight-color)">(1999)</span>
-    - Backyard Football 2002 <span style="color: var(--highlight-color)">(2001)</span>
-    - Backyard Soccer <span style="color: var(--highlight-color)">(1998)</span>
-    - Backyard Soccer 2004 <span style="color: var(--highlight-color)">(2003)</span>
-    - Backyard Soccer MLS Edition <span style="color: var(--highlight-color)">(2000)</span>
+    - Backyard Baseball *(1997)*
+    - Backyard Baseball 2001 *(2000)*
+    - Backyard Baseball 2003 *(2002)*
+    - Backyard Basketball *(2001)*
+    - Backyard Football *(1999)*
+    - Backyard Football 2002 *(2001)*
+    - Backyard Soccer *(1998)*
+    - Backyard Soccer 2004 *(2003)*
+    - Backyard Soccer MLS Edition *(2000)*
 - Moonbase Commander
-    - Moonbase Commander <span style="color: var(--highlight-color)">(2002)</span>
+    - Moonbase Commander *(2002)*
 
 ---
 
@@ -167,66 +167,66 @@ The BD-ROM version contains all the games on a single Blu-ray disc:
 
 ## Complete Disc
 - Backyard Sports
-    - Backyard Baseball <span style="color: var(--highlight-color)">(1997)</span>
-    - Backyard Baseball 2001 <span style="color: var(--highlight-color)">(2000)</span>
-    - Backyard Baseball 2003 <span style="color: var(--highlight-color)">(2002)</span>
-    - Backyard Basketball <span style="color: var(--highlight-color)">(2001)</span>
-    - Backyard Football <span style="color: var(--highlight-color)">(1999)</span>
-    - Backyard Football 2002 <span style="color: var(--highlight-color)">(2001)</span>
-    - Backyard Soccer <span style="color: var(--highlight-color)">(1998)</span>
-    - Backyard Soccer 2004 <span style="color: var(--highlight-color)">(2003)</span>
-    - Backyard Soccer MLS Edition <span style="color: var(--highlight-color)">(2000)</span>
+    - Backyard Baseball *(1997)*
+    - Backyard Baseball 2001 *(2000)*
+    - Backyard Baseball 2003 *(2002)*
+    - Backyard Basketball *(2001)*
+    - Backyard Football *(1999)*
+    - Backyard Football 2002 *(2001)*
+    - Backyard Soccer *(1998)*
+    - Backyard Soccer 2004 *(2003)*
+    - Backyard Soccer MLS Edition *(2000)*
 - Big Thinker
-    - Big Thinkers 1st Grade <span style="color: var(--highlight-color)">(1997)</span>
-    - Big Thinkers Kindergarten <span style="color: var(--highlight-color)">(1997)</span>
+    - Big Thinkers 1st Grade *(1997)*
+    - Big Thinkers Kindergarten *(1997)*
 - Blue's Clues
-    - Blue's 123 Time Activities <span style="color: var(--highlight-color)">(1999)</span>
-    - Blue's ABC Time Activities <span style="color: var(--highlight-color)">(1998)</span>
-    - Blue's Clues: Blue's Art Time Activities <span style="color: var(--highlight-color)">(2000)</span>
-    - Blue's Birthday Adventure <span style="color: var(--highlight-color)">(1998)</span>
-    - Blue's Reading Time Activities <span style="color: var(--highlight-color)">(2000)</span>
-    - Blue's Treasure Hunt <span style="color: var(--highlight-color)">(1999)</span>
+    - Blue's 123 Time Activities *(1999)*
+    - Blue's ABC Time Activities *(1998)*
+    - Blue's Clues: Blue's Art Time Activities *(2000)*
+    - Blue's Birthday Adventure *(1998)*
+    - Blue's Reading Time Activities *(2000)*
+    - Blue's Treasure Hunt *(1999)*
 - Fatty Bear
-    - Fatty Bear's Birthday Surprise <span style="color: var(--highlight-color)">(1993)</span>
-    - Fatty Bear's Fun Pack <span style="color: var(--highlight-color)">(1993)</span>
-    - Putt-Putt and Fatty Bear's Activity Pack <span style="color: var(--highlight-color)">(1994)</span>
+    - Fatty Bear's Birthday Surprise *(1993)*
+    - Fatty Bear's Fun Pack *(1993)*
+    - Putt-Putt and Fatty Bear's Activity Pack *(1994)*
 - Freddi Fish
-    - Freddi Fish 1: The Case of the Missing Kelp Seeds <span style="color: var(--highlight-color)">(1994)</span>
-    - Freddi Fish 2: The Case of the Haunted Schoolhouse <span style="color: var(--highlight-color)">(1995)</span>
-    - Freddi Fish 3: The Case of the Stolen Conch Shell <span style="color: var(--highlight-color)">(1998)</span>
-    - Freddi Fish 4: The Case of the Hogfish Rustlers of Briny Gulch <span style="color: var(--highlight-color)">(1999)</span>
-    - Freddi Fish 5: The Case of the Creature of Coral Cove <span style="color: var(--highlight-color)">(2001)</span>
-    - Freddi Fish and Luther's Maze Madness <span style="color: var(--highlight-color)">(1997)</span>
-    - Freddi Fish and Luther's Water Worries <span style="color: var(--highlight-color)">(1997)</span>
-    - Freddi Fish's One-Stop Fun Shop <span style="color: var(--highlight-color)">(2000)</span>
+    - Freddi Fish 1: The Case of the Missing Kelp Seeds *(1994)*
+    - Freddi Fish 2: The Case of the Haunted Schoolhouse *(1995)*
+    - Freddi Fish 3: The Case of the Stolen Conch Shell *(1998)*
+    - Freddi Fish 4: The Case of the Hogfish Rustlers of Briny Gulch *(1999)*
+    - Freddi Fish 5: The Case of the Creature of Coral Cove *(2001)*
+    - Freddi Fish and Luther's Maze Madness *(1997)*
+    - Freddi Fish and Luther's Water Worries *(1997)*
+    - Freddi Fish's One-Stop Fun Shop *(2000)*
 - Junior Field Trips
-    - Let's Explore the Airport with Buzzy <span style="color: var(--highlight-color)">(1995)</span>
-    - Let's Explore the Farm with Buzzy <span style="color: var(--highlight-color)">(1994)</span>
-    - Let's Explore the Jungle with Buzzy <span style="color: var(--highlight-color)">(1995)</span>
+    - Let's Explore the Airport with Buzzy *(1995)*
+    - Let's Explore the Farm with Buzzy *(1994)*
+    - Let's Explore the Jungle with Buzzy *(1995)*
 - Moonbase Commander
-    - Moonbase Commander <span style="color: var(--highlight-color)">(2002)</span>
+    - Moonbase Commander *(2002)*
 - Pajama Sam
-    - Pajama Sam 1: No Need to Hide When It's Dark Outside <span style="color: var(--highlight-color)">(1996)</span>
-    - Pajama Sam 2: Thunder and Lightning Aren't so Frightening <span style="color: var(--highlight-color)">(1998)</span>
-    - Pajama Sam 3: You Are What You Eat from Your Head to Your Feet <span style="color: var(--highlight-color)">(2000)</span>
-    - Pajama Sam's Lost & Found <span style="color: var(--highlight-color)">(1998)</span>
-    - Pajama Sam's One-Stop Fun Shop <span style="color: var(--highlight-color)">(2000)</span>
-    - Pajama Sam's Sock Works <span style="color: var(--highlight-color)">(1997)</span>
-    - Pajama Sam: Games to Play On Any Day <span style="color: var(--highlight-color)">(2001)</span>
+    - Pajama Sam 1: No Need to Hide When It's Dark Outside *(1996)*
+    - Pajama Sam 2: Thunder and Lightning Aren't so Frightening *(1998)*
+    - Pajama Sam 3: You Are What You Eat from Your Head to Your Feet *(2000)*
+    - Pajama Sam's Lost & Found *(1998)*
+    - Pajama Sam's One-Stop Fun Shop *(2000)*
+    - Pajama Sam's Sock Works *(1997)*
+    - Pajama Sam: Games to Play On Any Day *(2001)*
 - Putt-Putt
-    - Putt-Putt and Pep's Balloon-o-Rama <span style="color: var(--highlight-color)">(1996)</span>
-    - Putt-Putt and Pep's Dog on a Stick <span style="color: var(--highlight-color)">(1996)</span>
-    - Putt-Putt Enters the Race <span style="color: var(--highlight-color)">(1999)</span>
-    - Putt-Putt Goes to the Moon <span style="color: var(--highlight-color)">(1993)</span>
-    - Putt-Putt Joins the Circus <span style="color: var(--highlight-color)">(2000)</span>
-    - Putt-Putt Joins the Parade <span style="color: var(--highlight-color)">(1992)</span>
-    - Putt-Putt Saves the Zoo <span style="color: var(--highlight-color)">(1995)</span>
-    - Putt-Putt Travels Through Time <span style="color: var(--highlight-color)">(1997)</span>
-    - Putt-Putt's Fun Pack <span style="color: var(--highlight-color)">(1993)</span>
-    - Putt-Putt's One-Stop Fun Shop <span style="color: var(--highlight-color)">(2000)</span>
+    - Putt-Putt and Pep's Balloon-o-Rama *(1996)*
+    - Putt-Putt and Pep's Dog on a Stick *(1996)*
+    - Putt-Putt Enters the Race *(1999)*
+    - Putt-Putt Goes to the Moon *(1993)*
+    - Putt-Putt Joins the Circus *(2000)*
+    - Putt-Putt Joins the Parade *(1992)*
+    - Putt-Putt Saves the Zoo *(1995)*
+    - Putt-Putt Travels Through Time *(1997)*
+    - Putt-Putt's Fun Pack *(1993)*
+    - Putt-Putt's One-Stop Fun Shop *(2000)*
 - SPY Fox
-    - SPY Fox 1: Dry Cereal <span style="color: var(--highlight-color)">(1997)</span>
-    - SPY Fox 2: Some Assembly Required <span style="color: var(--highlight-color)">(1999)</span>
-    - SPY Fox 3: Operation Ozone <span style="color: var(--highlight-color)">(2001)</span>
-    - SPY Fox in Cheese Chase <span style="color: var(--highlight-color)">(1998)</span>
-    - SPY Fox in Hold the Mustard <span style="color: var(--highlight-color)">(1999)</span>
+    - SPY Fox 1: Dry Cereal *(1997)*
+    - SPY Fox 2: Some Assembly Required *(1999)*
+    - SPY Fox 3: Operation Ozone *(2001)*
+    - SPY Fox in Cheese Chase *(1998)*
+    - SPY Fox in Hold the Mustard *(1999)*
