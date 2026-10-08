@@ -59,6 +59,31 @@ This is a fan-made physical game disc release containing every Humongous Enterta
 
 ---
 
+# How to Make a Physical Release
+1. Download either the `3 DVD-ROM Set` or the `BD-ROM Edition` from the links above.
+  - You only need the `.iso` and `.png` files to make a physical release. You can skip downloading all the `.md5` and `.par2` files if you aren't concerned about corrupted downloads.
+  - Optionally, if you want some way to verify and repair corrupted downloads, then you can download the `.md5` and `.par2` files as well.
+    - The `.par2` files only provide 1% redundancy to keep the total package small while still providing a little bit of error tolerance. If you're trying to make an archival backup that can survive heavy data rot, download the `Archival Backup` instead, which has 100% redundancy `.par2` files for HDD backup, in addition to archival `.iso` files with 100% - 200% redundancy built in using [`dvdisaster`](https://github.com/speed47/dvdisaster).
+2. Burn the `.iso` file(s) to the disc(s). Use `4x` - `8x` speed for best results.
+  - At this point, if you don't care about having pretty labels or box art for the disc(s), you can just label them with a marker and skip the rest of this section.
+3. Print and cut the artwork in the `Print` folders out at 300 DPI. <span style="color: var(--highlight-color)"><u>DO NOT SCALE THE ARTWORK WHEN PRINTING.</u></span> There is an example of what each item should look like after being cut to its final size in the `Preview` folders.
+  - The disc label(s) should be printed on pre-cut adhesive CD labels. You will either need to learn how to align the artwork to the CD label paper or pay a local print shop to do it for you.
+  - The cover art should be printed on gloss or semi-gloss paper. When cutting it out, try to trim about `3 mm` of the artwork off on every side. The artwork was designed to be cut out this way.
+  - The internal insert should be printed on either semi-gloss or matte paper that's thicker than printer paper. Again, it was designed to be cut out by trimming `3 mm` of printed artwork off on each side.
+4. Apply the labels to the disc(s), put the front cover and internal insert into the keep case, and you're done! Congratulations, you have now created a physical game release!
+
+---
+
+# How to Play
+1. Insert the disc into your disc drive and wait for it to show up in Windows.
+2. On older versions of Windows, you will get an Autorun popup prompting you to run the startup script. On newer versions, you will need to right-click the disc drive in Windows Explorer and select `Install or run program from your media`. If all else fails, you can manually run the script by double-clicking on `Run.bat`.
+3. Wait for a minute or so while the data is read from the disc. You may see a command window that lingers for a moment, then disappears; this means that the game engine is loading in the background. <u>Do not run the launcher script more than once, or multiple launcher windows will open.</u>
+4. When the ScummVM launcher finally shows up, double-click the game you wish to play. The game files will be loaded from the disc, and your game will start.
+5. You can exit your game at any time, and you will return to the ScummVM launcher. Clicking the exit button a second time on the launcher screen will quit the launcher entirely.
+6. When you are done playing, exit the ScummVM launcher completely, then eject the disc. <u>Ejecting the disc while the engine is still running can result in strange bugs and possible save game corruption.</u>
+
+---
+
 # Included Games
 The DVD-ROM version of this collection has the games split up between 3 DVD discs:
 
