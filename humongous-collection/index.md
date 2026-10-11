@@ -56,6 +56,7 @@ This is a fan-made physical game disc release containing every Humongous Enterta
     - <a href="magnet:?xt=urn:btih:ddd35876df3e183acbe5a7bb1a872be156da9e11&dn=Humongous%20Collection%20%28BD-ROM%20Edition%29&xl=12730546204&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce">[MAGNET LINK]</a>
 - Archival Backup
     - <a href="https://archive.org/details/humongous-collection">[INTERNET ARCHIVE]</a>
+    - <a href="magnet:?xt=urn:btih:b805a0148ab5a92d254ead9062b8659484507ab9&dn=humongous-collection&tr=http%3a%2f%2fbt1.archive.org%3a6969%2fannounce&tr=http%3a%2f%2fbt2.archive.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&ws=http%3a%2f%2fia600401.us.archive.org%2f23%2fitems%2f&ws=http%3a%2f%2fia800401.us.archive.org%2f23%2fitems%2f&ws=https%3a%2f%2farchive.org%2fdownload%2f&ws=https%3a%2f%2fdn710404.ca.archive.org&ws=https%3a%2f%2fia600401.us.archive.org&ws=https%3a%2f%2fia800401.us.archive.org">[IA MAGNET LINK]</a>
 
 ---
 
