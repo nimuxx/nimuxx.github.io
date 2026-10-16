@@ -13,10 +13,10 @@ title: Humongous Entertainment ScummVM Collection
 This is a collection of every Humongous Entertainment game that's compatible with ScummVM.
 
 # Features
-- Directories are named based on the ScummVM internal IDs for the games.
+- Directories are named based on the ScummVM internal ID for each game.
   - This ensures that ScummVM correctly detects the games using the `Add Game... > Mass Add...` option.
 - Each game has an associated `.scummvm` file.
-    - This allows frontends like RetroArch to correctly detect the games.
+    - This allows frontends like RetroArch to detect the games correctly.
 
 ---
 
