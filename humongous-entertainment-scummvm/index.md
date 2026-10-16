@@ -6,7 +6,7 @@ title: Humongous Entertainment ScummVM Collection
 <h1 align="center" style="font-size: 56px !important;">Humongous Entertainment ScummVM Collection</h1>
 <h2 align="center" style="font-size: 32px !important;">All the Humongous Entertainment games that are supported by ScummVM.</h2>
 
-<img src="humongous-entertainment-scummvm-collection.png" style="width: 800px;" alt="Promo image for the Humongous Entertainment ScummVM Collection." />
+<div align="center"><img src="humongous-entertainment-scummvm-collection.png" style="width: 800px;" alt="Promo image for the Humongous Entertainment ScummVM Collection." /></div>
 
 ---
 
