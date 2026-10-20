@@ -68,11 +68,12 @@ This is a fan-made physical game disc release containing every Humongous Enterta
         - If you're trying to make an archival backup that can survive heavy data rot, download the `Archival Backup` instead, which has 100% redundancy `.par2` files for HDD backup, in addition to archival `.iso` files with 100% - 200% redundancy built in using [`dvdisaster`](https://github.com/speed47/dvdisaster).
 2. Burn the `.iso` file(s) to the disc(s). Use `4x` - `8x` speed for best results.
     - At this point, if you don't care about having pretty labels or box art for the disc(s), you can just label them with a marker and skip the rest of this section.
-3. Print out the artwork in the `Print` folders at `300 DPI`. **Do not scale the artwork when printing.** There is an example of what each item should look like after being cut to its final size in the `Preview` folders.
-    - The disc label(s) should be printed on pre-cut adhesive CD labels. You will either need to learn how to align the artwork to the CD label paper or pay a local print shop to do it for you.
+4. Print out the artwork in the `Print` folders at `300 DPI`. **Do not scale the artwork when printing.** There is an example of what each item should look like after being cut to its final size in the `Preview` folders.
+    - Ideally, the disc label(s) should be printed directly onto the discs, using white inkjet printable discs such as [these](https://www.verbatim.com/en/dvd/products/95079-dvd-r-47gb-16x-datalifeplus-white-inkjet-printable-hub-printable-50pk-spindle) or [these](https://www.verbatim.com/en/blu-ray/products/97339-bd-r-25gb-16x-datalifeplus-white-inkjet-printable-hub-printable-50pk-spindle). You can either find a local print shop that will sell you blank discs with the artwork printed on then, or you can buy the blank discs and a CD/DVD inkjet printer to print the discs yourself.
+      - Alternatively, the disc label(s) can be printed on pre-cut adhesive CD labels. [However, this is not recommended, as over time the paper labels can warp the disc and make it unreadable, or even come apart inside your disc drive and ruin it!](https://filmfestivalsecrets.com/ffs/2009/08/paper-dvd-labels-still-evil-and-three-alternatives)
     - The cover art should be printed on gloss or semi-gloss paper. When cutting it out, try to trim off about `3 mm` of the artwork on every side. The artwork was designed to be cut out this way.
     - The internal insert should be printed on either semi-gloss or matte paper that's thicker than printer paper. Again, it was designed to be cut out by trimming off `3 mm` of printed artwork on each side.
-4. Apply the labels to the disc(s), put the front cover and internal insert into the keep case, and you're done!
+5. Apply the labels to the disc(s), put the front cover and internal insert into the keep case, and you're done!
 
 Congratulations, you have now created a physical game release!
 
