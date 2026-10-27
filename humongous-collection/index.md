@@ -75,7 +75,7 @@ This is a fan-made physical game disc release containing every Humongous Enterta
       - Alternatively, the disc label(s) can be printed on pre-cut adhesive CD labels using a standard inkjet printer. However, [this is not recommended](https://filmfestivalsecrets.com/ffs/2009/08/paper-dvd-labels-still-evil-and-three-alternatives), as over time the paper labels can warp the disc and make it unreadable, or even come apart inside your disc drive and ruin it!
     - The cover art should be printed on gloss or semi-gloss paper. When cutting it out, try to trim off about `3 mm` of the artwork on every side. The artwork was designed to be cut out this way.
     - The internal insert should be printed on either semi-gloss or matte paper that's thicker than printer paper. Again, it was designed to be cut out by trimming off `3 mm` of printed artwork on each side.
-5. Apply the labels to the disc(s), put the front cover and internal insert into the keep case, and you're done!
+5. Put the front cover and internal insert into the keep case, add the disc(s), and you're done!
 
 Congratulations, you have now created a physical game release!
 
