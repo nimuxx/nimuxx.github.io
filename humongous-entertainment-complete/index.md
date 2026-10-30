@@ -6,7 +6,7 @@ title: Humongous Entertainment Complete Collection
 <h1 align="center" style="font-size: 56px !important;">Humongous Entertainment Complete Collection</h1>
 <h2 align="center" style="font-size: 32px !important;">All the Humongous Entertainment games.</h2>
 
-<div align="center"><img src="humongous-entertainment-scummvm-collection.png" style="width: 800px;" alt="Promo image for the Humongous Entertainment ScummVM Collection." /></div>
+<div align="center"><img src="humongous-entertainment-complete-collection.png" style="width: 800px;" alt="Promo image for the Humongous Entertainment Complete Collection." /></div>
 
 ---
 
@@ -39,7 +39,6 @@ This is a collection of every Humongous Entertainment game.
 - *Fatty Bear*
     - Fatty Bear's Birthday Surprise *(1993)*
     - Fatty Bear's Fun Pack *(1993)*
-    - Putt-Putt and Fatty Bear's Activity Pack *(1994)*
 - *Freddi Fish*
     - Freddi Fish 1: The Case of the Missing Kelp Seeds *(1994)*
     - Freddi Fish 2: The Case of the Haunted Schoolhouse *(1995)*
@@ -57,24 +56,35 @@ This is a collection of every Humongous Entertainment game.
     - Backyard Baseball *(1997)*
     - Backyard Baseball 2001 *(2000)*
     - Backyard Baseball 2003 *(2002)*
+    - Backyard Baseball 2005 *(2004)*
     - Backyard Basketball *(2001)*
+    - Backyard Basketball 2004 *(2001)*
     - Backyard Football *(1999)*
     - Backyard Football 2002 *(2001)*
+    - Backyard Football 2004 *(2003)*
+    - Backyard Football 2006 *(2005)*
+    - Backyard Hockey *(2002)*
+    - Backyard Hockey 2005 *(2004)*
+    - Backyard Skateboarding *(2004)*
+    - Backyard Skateboarding - Game of the Year Edition *(2005)*
     - Backyard Soccer *(1998)*
     - Backyard Soccer 2004 *(2003)*
     - Backyard Soccer MLS Edition *(2000)*
 - *Moonbase Commander*
     - Moonbase Commander *(2002)*
 - *Pajama Sam*
-    - Pajama Sam 1: No Need to Hide When It's Dark Outside *(1996)*
+    - Pajama Sam: Games to Play On Any Day *(2001)*
+    - Pajama Sam: Life Is Rough When You Lose Your Stuff! *(2003)*
+    - Pajama Sam: No Need to Hide When It's Dark Outside *(1996)*
     - Pajama Sam 2: Thunder and Lightning Aren't so Frightening *(1998)*
     - Pajama Sam 3: You Are What You Eat from Your Head to Your Feet *(2000)*
     - Pajama Sam's Lost & Found *(1998)*
     - Pajama Sam's One-Stop Fun Shop *(2000)*
     - Pajama Sam's Sock Works *(1997)*
-    - Pajama Sam: Games to Play On Any Day *(2001)*
 - *Putt-Putt*
+    - Putt-Putt and Fatty Bear's Activity Pack *(1994)*
     - Putt-Putt and Pep's Balloon-o-Rama *(1996)*
+    - Putt-Putt and Pep's Birthday Surprise *(2003)*
     - Putt-Putt and Pep's Dog on a Stick *(1996)*
     - Putt-Putt Enters the Race *(1999)*
     - Putt-Putt Goes to the Moon *(1993)*
