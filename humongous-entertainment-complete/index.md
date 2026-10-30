@@ -14,7 +14,7 @@ This is a collection of every Humongous Entertainment game.
 
 # Features
 - Contains an `ISO` file for every game released by Humongous Entertainment.
-  - The original discs include the original demos, installs, etc.
+  - The discs include the original demos, installs, etc.
 
 ---
 
