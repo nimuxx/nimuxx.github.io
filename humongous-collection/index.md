@@ -3,28 +3,27 @@ layout: default
 title: Humongous Collection
 ---
 
-<h1 align="center" style="font-size: 56px !important;">Humongous Collection</h1>
-<h2 align="center" style="font-size: 32px !important;">A modern, no-install, disc-based collection of<br>Humongous Entertainment games, powered by ScummVM.</h2>
-
-<div style="max-width: 800px; margin: 30px auto -30px;">
-    <table style="width: 100%; border-collapse: collapse; border: none;">
-        <tr style="border: none;">
-            <td style="width: 100%; border: none; padding: 0 0 0 0;" colspan=2>
-                <img src="disc_full_demo.png" style="width: 75%; display: block; margin: 0 auto" alt="Demo images of the game discs." />
-            </td>
-        </tr>
-        <tr style="border: none;">
-            <td style="width: 50%; border: none; padding: 0 0 0 0;">
-                <img src="bd-rom_case_cover.png" style="width: 100%; display: block;" alt="Demo images of the BD-ROM Edition cover." />
-            </td>
-            <td style="width: 50%; border: none; padding: 20px 0 0 0;">
-                <img src="bd-rom_case_inside.png" style="width: 100%; display: block;" alt="Demo image of the BD-ROM Edition insert." />
-            </td>
-        </tr>
-    </table>
-</div>
-
----
+<header>
+    <h1>Humongous Collection</h1>
+    <h2>A modern, no-install, disc-based collection of<br>Humongous Entertainment games, powered by ScummVM.</h2>
+    <div style="max-width: 800px; margin: 30px auto -30px;">
+        <table style="width: 100%; border-collapse: collapse; border: none;">
+            <tr style="border: none;">
+                <td style="width: 100%; border: none; padding: 0 0 0 0;" colspan=2>
+                    <img src="disc_full_demo.png" style="width: 75%; display: block; margin: 0 auto" alt="Demo images of the game discs." />
+                </td>
+            </tr>
+            <tr style="border: none;">
+                <td style="width: 50%; border: none; padding: 0 0 0 0;">
+                    <img src="bd-rom_case_cover.png" style="width: 100%; display: block;" alt="Demo images of the BD-ROM Edition cover." />
+                </td>
+                <td style="width: 50%; border: none; padding: 20px 0 0 0;">
+                    <img src="bd-rom_case_inside.png" style="width: 100%; display: block;" alt="Demo image of the BD-ROM Edition insert." />
+                </td>
+            </tr>
+        </table>
+    </div>
+</header>
 
 This is a fan-made physical game disc release containing every Humongous Entertainment game that's compatible with ScummVM.
 
