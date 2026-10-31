@@ -6,8 +6,7 @@ title: Humongous Entertainment Complete Collection
 <header>
   <h1>Humongous Entertainment Complete Collection</h1>
   <h2>All the Humongous Entertainment games, in ISO format.</h2>
-  
-  <div align="center"><img src="humongous-entertainment-complete-collection.png" style="width: 800px;" alt="Promo image for the Humongous Entertainment Complete Collection." /></div>
+  <img src="humongous-entertainment-complete-collection.png" style="width: 800px;" alt="Promo image for the Humongous Entertainment Complete Collection." />
 </header>
 
 This is a collection of every Humongous Entertainment game.
