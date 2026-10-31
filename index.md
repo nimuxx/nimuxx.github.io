@@ -3,7 +3,9 @@ layout: default
 title: Nimuxx's Pages
 ---
 
-# Nimuxx's Pages
+<h1 align="center" style="font-size: 56px !important;">Nimuxx's Pages</h1>
+
+---
 
 ## Projects
 - <a href="./humongous-collection"><i>[Humongous Collection]</i> A modern, no-install, disc-based collection of Humongous Entertainment games, powered by ScummVM.</a>
