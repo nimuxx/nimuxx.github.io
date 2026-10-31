@@ -4,7 +4,7 @@ title: Humongous Entertainment ScummVM Collection
 ---
 
 <header>
-  <h1>Humongous Entertainment ScummVM Collection</h1>
+  <h1>Humongous Entertainment<br>ScummVM Collection</h1>
   <h2>All the Humongous Entertainment games that are supported by ScummVM.</h2>
   <img src="humongous-entertainment-scummvm-collection.png" style="width: 800px;" alt="Promo image for the Humongous Entertainment ScummVM Collection." />
 </header>
