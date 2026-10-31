@@ -4,7 +4,7 @@ title: Humongous Entertainment Complete Collection
 ---
 
 <h1 align="center" style="font-size: 56px !important;">Humongous Entertainment Complete Collection</h1>
-<h2 align="center" style="font-size: 32px !important;">All the Humongous Entertainment games.</h2>
+<h2 align="center" style="font-size: 32px !important;">All the Humongous Entertainment games, in ISO format.</h2>
 
 <div align="center"><img src="humongous-entertainment-complete-collection.png" style="width: 800px;" alt="Promo image for the Humongous Entertainment Complete Collection." /></div>
 
@@ -13,7 +13,7 @@ title: Humongous Entertainment Complete Collection
 This is a collection of every Humongous Entertainment game.
 
 # Features
-- Contains an `ISO` file for every game released by Humongous Entertainment.
+- Contains an `ISO` file for every game CD released by Humongous Entertainment.
   - The discs include the original demos, installs, etc.
 
 ---
