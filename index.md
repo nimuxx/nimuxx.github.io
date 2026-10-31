@@ -4,7 +4,7 @@ title: Nimuxx's Pages
 ---
 
 <header>
-  <h1 align="center" style="font-size: 56px !important;">Nimuxx's Pages</h1>
+  <h1>Nimuxx's Pages</h1>
 </header>
 
 # Projects
