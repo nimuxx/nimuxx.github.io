@@ -2,6 +2,7 @@
 
 :root {
   --highlight-color: #{$header};
+  --body-color: #{$body-foreground};
 }
 
 @font-face {
@@ -103,7 +104,7 @@ footer {
   font-size: 16px !important;
   display: inline-block;
   text-align: left;
-  color: var(--highlight-color);
+  color: var(--body-color);
   background: transparent;
   border: transparent;
   padding: 0;
