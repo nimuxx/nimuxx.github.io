@@ -4,8 +4,7 @@ title: Nimuxx's Pages
 ---
 
 <h1 align="center" style="font-size: 56px !important;">Nimuxx's Pages</h1>
-
----
+<hr style="margin: 0 0 1em 0;">
 
 # Projects
 - <a href="./humongous-collection"><i>[Humongous Collection]</i> A modern, no-install, disc-based collection of Humongous Entertainment games, powered by ScummVM.</a>
