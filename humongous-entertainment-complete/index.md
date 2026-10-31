@@ -3,12 +3,12 @@ layout: default
 title: Humongous Entertainment Complete Collection
 ---
 
-<h1 align="center" style="font-size: 56px !important;">Humongous Entertainment Complete Collection</h1>
-<h2 align="center" style="font-size: 32px !important;">All the Humongous Entertainment games, in ISO format.</h2>
-
-<div align="center"><img src="humongous-entertainment-complete-collection.png" style="width: 800px;" alt="Promo image for the Humongous Entertainment Complete Collection." /></div>
-
----
+<header>
+  <h1>Humongous Entertainment Complete Collection</h1>
+  <h2>All the Humongous Entertainment games, in ISO format.</h2>
+  
+  <div align="center"><img src="humongous-entertainment-complete-collection.png" style="width: 800px;" alt="Promo image for the Humongous Entertainment Complete Collection." /></div>
+</header>
 
 This is a collection of every Humongous Entertainment game.
 
