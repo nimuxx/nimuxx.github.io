@@ -75,6 +75,10 @@ header h2 {
   color: var(--secondary-color);
 }
 
+header h1::before {
+  content: none;
+}
+
 h1 {
   font-size: 40px !important;
 }
