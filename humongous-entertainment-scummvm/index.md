@@ -21,7 +21,7 @@ This is a collection of every Humongous Entertainment game that's compatible wit
 
 # Downloads
 - <a href="https://drive.google.com/drive/folders/117mxctSIVyFBu8d55YlJjgS0TuISSIZ3">[GOOGLE DRIVE]</a>
-- <a href="magnet:?xt=urn:btih:713a7103e6f2ba5e4f3e9cbec1476e35efa99c0c&dn=Humongous%20Entertainment%20ScummVM%20Collection&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce">[MAGNET LINK]</a>
+- <a href="magnet:?xt=urn:btih:6483f3c59cf95e24b94af4026f36760062f76c8b&dn=Humongous%20Entertainment%20ScummVM%20Collection&xl=12311792553&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce">[MAGNET LINK]</a>
 
 ---
 
