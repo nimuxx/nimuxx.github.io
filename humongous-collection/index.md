@@ -52,7 +52,7 @@ This is a fan-made physical game disc release containing every Humongous Enterta
     - <a href="magnet:?xt=urn:btih:37cb23f85f7aa37a20977e1bd09d3c4a939e3af7&dn=Humongous%20Collection%20%283%20DVD-ROM%20Set%29&xl=13210701983&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce">[MAGNET LINK]</a>
 - BD-ROM Edition
     - <a href="https://drive.google.com/drive/folders/1I4RSSHDaRd4DgBy6jJA_bBxS3XNiK9U-">[GOOGLE DRIVE]</a>
-    - <a href="magnet:?xt=urn:btih:699fb1217c99aa96a7bb9b2baabb69229e471fe7&dn=Humongous%20Collection%20%28BD-ROM%20Edition%29&xl=12742063615&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce">[MAGNET LINK]</a>
+    - <a href="magnet:?xt=urn:btih:6f14a686b8de3a310eea5ed1395ce980fd925a21&dn=Humongous%20Collection%20%28BD-ROM%20Edition%29&xl=12742063615&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce">[MAGNET LINK]</a>
 - Archival Backup
     - <a href="https://archive.org/details/humongous-collection">[INTERNET ARCHIVE]</a>
     - <a href="magnet:?xt=urn:btih:8af967e521a7905cb74d00ba8fee366a308fe262&dn=humongous-collection&tr=http%3a%2f%2fbt1.archive.org%3a6969%2fannounce&tr=http%3a%2f%2fbt2.archive.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&ws=http%3a%2f%2fia600401.us.archive.org%2f23%2fitems%2f&ws=http%3a%2f%2fia800401.us.archive.org%2f23%2fitems%2f&ws=https%3a%2f%2farchive.org%2fdownload%2f">[IA MAGNET LINK]</a>
@@ -65,16 +65,16 @@ This is a fan-made physical game disc release containing every Humongous Enterta
     - Optionally, if you want some way to verify and repair corrupted downloads, then you can download the `.md5` and `.par2` files as well.
         - The `.par2` files only provide 1% redundancy, to keep the total package small while still providing a little bit of error tolerance.
         - If you're trying to make an archival backup that can survive heavy data rot, download the `Archival Backup` instead, which has 100% redundancy `.par2` files for HDD backup, in addition to archival `.iso` files with 100% - 200% redundancy built in using [`dvdisaster`](https://github.com/speed47/dvdisaster).
-2. Burn the `.iso` file(s) to the disc(s). Use `4x` - `8x` speed for best results.
-    - At this point, if you don't care about having pretty labels or box art for the disc(s), you can just label them with a marker and skip the rest of this section.
-4. Print out the artwork in the `Print` folders at `300 DPI`. **Do not scale the artwork when printing.** There is an example of what each item should look like after being cut to its final size in the `Preview` folders.
+1. Print out the artwork in the `Print` folders at `300 DPI`. **Do not scale the artwork when printing.** There is an example of what each item should look like after being cut to its final size in the `Preview` folders.
     - Ideally, the disc label(s) should be printed directly onto the disc(s).
       - The easiest (and cheapest) option for this is to find a print shop or manufacturer that will sell you disc(s) with the artwork printed on them (like [Kunaki](https://kunaki.com/)).
       - You could also buy the blank inkjet printable discs such as [these](https://www.verbatim.com/en/dvd/products/95079-dvd-r-47gb-16x-datalifeplus-white-inkjet-printable-hub-printable-50pk-spindle) or [these](https://www.verbatim.com/en/blu-ray/products/97339-bd-r-25gb-16x-datalifeplus-white-inkjet-printable-hub-printable-50pk-spindle) and a CD/DVD inkjet printer, then print onto the disc(s) yourself.
       - Alternatively, the disc label(s) can be printed on pre-cut adhesive CD labels using a standard inkjet printer. However, [this is not recommended](https://filmfestivalsecrets.com/ffs/2009/08/paper-dvd-labels-still-evil-and-three-alternatives), as over time the paper labels can warp the disc(s), or even come apart inside your disc drive and ruin it!
     - The cover art should be printed on gloss or semi-gloss paper. When cutting it out, try to trim off about `3 mm` of the artwork on every side. The artwork was designed to be cut out this way.
     - The internal insert should be printed on either semi-gloss or matte paper that's thicker than printer paper. Again, it was designed to be cut out by trimming off `3 mm` of printed artwork on each side.
-5. Put the front cover and internal insert into the keep case, add the disc(s), and you're done!
+1. Burn the `.iso` file(s) to the disc(s). Use `4x` - `8x` speed for best results.
+    - Some disc printing services like [Kunaki](https://kunaki.com/) provide free image burning at no extra cost. You can skip this step if you order the disc(s) pre-burned.
+1. Put the front cover and internal insert into the keep case, add the disc(s), and you're done!
 
 Congratulations, you have now created a physical game release!
 
@@ -82,18 +82,18 @@ Congratulations, you have now created a physical game release!
 
 # How to Play
 1. Insert the disc into your disc drive and wait for it to show up in Windows.
-2. Run the launcher script.
+1. Run the launcher script.
     - On older versions of Windows, you will get an Autorun popup prompting you to run the startup script.
     - On newer versions of Windows, you will need to right-click the disc drive in Windows Explorer and select `Install or run program from your media`.
     - If all else fails, you can manually run the script by double-clicking on `Run.bat`.
-4. Wait for a minute or so while the data is read from the disc.
+1. Wait for a minute or so while the data is read from the disc.
     - You may see a command window that lingers for a moment, then disappears; This means that the game engine is loading in the background.
     - **Do not run the launcher script more than once, or multiple launcher windows will open.**
-5. When the ScummVM launcher finally shows up, double-click the game you wish to play.
+1. When the ScummVM launcher finally shows up, double-click the game you wish to play.
     - Wait a moment while the game files are loaded from the disc, then your game will start.
-6. You can exit your game at any time, and you will return to the ScummVM launcher.
+1. You can exit your game at any time, and you will return to the ScummVM launcher.
     - Clicking the exit button a second time on the launcher screen will quit the launcher entirely.
-7. When you are done playing, exit the ScummVM launcher completely, then eject the disc.
+1. When you are done playing, exit the ScummVM launcher completely, then eject the disc.
     - **Ejecting the disc while ScummVM is still running can result in strange bugs and possible save game corruption.**
 
 ---
