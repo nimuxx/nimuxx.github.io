@@ -64,7 +64,7 @@ This is a fan-made physical game disc release containing every Humongous Enterta
     - You only need the `.iso` and `.png` files to make a physical release. You can skip downloading all the `.md5` and `.par2` files if you aren't concerned about corrupted downloads.
     - Optionally, if you want some way to verify and repair corrupted downloads, then you can download the `.md5` and `.par2` files as well.
         - The `.par2` files only provide 1% redundancy, to keep the total package small while still providing a little bit of error tolerance.
-        - If you're trying to make an archival backup that can survive heavy data rot, download the `Archival Backup` instead, which has 100% redundancy `.par2` files for HDD backup, in addition to an archival `.iso` file with 86.1% redundancy built in using [`dvdisaster`](https://github.com/speed47/dvdisaster).
+        - If you're trying to make an archival backup that can survive heavy data rot, download the `Archival Backup` instead, which has 100% redundancy `.par2` files for HDD backup, in addition to an archival `.iso` file with 83.5% redundancy built in using [`dvdisaster`](https://github.com/speed47/dvdisaster).
 1. Print out the artwork in the `Print` folders at `300 DPI`. **Do not scale the artwork when printing.** There is an example of what each item should look like after being cut to its final size in the `Preview` folders.
     - Ideally, the disc label(s) should be printed directly onto the disc(s).
       - The easiest (and cheapest) option for this is to find a print shop or manufacturer that will sell you disc(s) with the artwork printed on them (like [Kunaki](https://kunaki.com/)).
