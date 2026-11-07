@@ -49,11 +49,11 @@ This is a fan-made physical game disc release containing every Humongous Enterta
 # Downloads
 - 3 DVD-ROM Set
     - <a href="https://drive.google.com/drive/folders/1CL1tkFbq0vU7fBG9TMU9z9LP7TtWmeK5">[GOOGLE DRIVE]</a>
-    - <a href="https://drive.google.com/file/d/1kYvl24A_l8dl5Me1wDyREsN-_1yfxJGY">[TORRENT]</a>
+    - <a href="https://drive.google.com/uc?export=download&id=1kYvl24A_l8dl5Me1wDyREsN-_1yfxJGY">[TORRENT]</a>
     - <a href="magnet:?xt=urn:btih:37cb23f85f7aa37a20977e1bd09d3c4a939e3af7&dn=Humongous%20Collection%20%283%20DVD-ROM%20Set%29&xl=13210701983&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce">[MAGNET LINK]</a>
 - BD-ROM Edition
     - <a href="https://drive.google.com/drive/folders/1I4RSSHDaRd4DgBy6jJA_bBxS3XNiK9U-">[GOOGLE DRIVE]</a>
-    - <a href="https://drive.google.com/file/d/1nA3pDlnMbHe3U0jqd3d9Lwa_vk5cJUs8">[TORRENT]</a>
+    - <a href="https://drive.google.com/uc?export=download&id=1nA3pDlnMbHe3U0jqd3d9Lwa_vk5cJUs8">[TORRENT]</a>
     - <a href="magnet:?xt=urn:btih:6f14a686b8de3a310eea5ed1395ce980fd925a21&dn=Humongous%20Collection%20%28BD-ROM%20Edition%29&xl=12742063615&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce">[MAGNET LINK]</a>
 - Archival Backup
     - <a href="https://archive.org/details/humongous-collection">[INTERNET ARCHIVE]</a>
